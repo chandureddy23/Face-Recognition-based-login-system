@@ -81,6 +81,7 @@ facial-login-system/
 
 ### **Main Window**
 ![image](https://github.com/user-attachments/assets/057585e5-58c5-4eaa-83f4-c5896501c5cc)
+![image](https://github.com/user-attachments/assets/254bb278-855f-45ac-90e3-1028935b5627)
 
 ### **User Registration**
 ![image](https://github.com/user-attachments/assets/e3819da4-a974-4d01-852e-a44660ad7158)
